@@ -2,15 +2,15 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: Distributed training method implementation and optimization
 authors:
-    A. M. Turing
+    X. CHU
 affiliations:
-    King's College, Cambridge
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
+    Dankook Uni
+paper: None
+video: None
+code: None
+data: None
 ---
 
 <!-- Using HTML to center the abstract -->
